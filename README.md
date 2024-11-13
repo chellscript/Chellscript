@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hello BEAUTIFUL World, 👋
+
+I'm Michi, I serve sass and something servers. Some quick facts about myself...
+
+- ⭐️ Front End Developer with and my main technologies are Typescript/Javascript, HTML, CSS, Tailwind and Next.js/React.
+- 🤪 I am a UX/UI freak who loves CSS and Tailwind!
+- ✨ I have a [portfolio site](https://chellscript.dev/) with things that I've shipped to the interwebz.
+- 🤢 SQL errors messages make me ill...
+- My favourite Slack reaction is:
+
+  ![gif of confused party parrot](confusedparrot.gif)
+
+xoxo
+
+_Profile avatar generated with pretty cool [ML Model](https://huggingface.co/alvdansen/sonny-anime-flex) and party parrot from this [freaking-awesome website](https://cultofthepartyparrot.com/)_
 
 <!--
 **Michasa/Michasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
